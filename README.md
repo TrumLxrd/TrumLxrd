@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="https://github-language-stats.vercel.app/api/card?username=TrumLxrd&theme=dark" height="200">
   <br>
   <br>
   <a href="https://ko-fi.com/trumy"> 
